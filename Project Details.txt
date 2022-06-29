@@ -1,0 +1,3 @@
+1. Used three dependencies [bcryptjs: for password protection, expressjs: creating Server, mongoose: for connection Database MongoDB-Atlas ]
+2. Create Rest API for CRUD operations [delete, update, get a single user, get all users] - For Crud operation all users have same password[12345]
+3. Used auth.js controller for LOGIN and REGISTER of a user
